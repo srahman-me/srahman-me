@@ -1,6 +1,6 @@
 # 💫About Me :
-💻 Working on React, Laravel & Vue </br>
-📝 Highly hiped with NODE.js  </br>
+💻 Working with React, Laravel & Vue </br>
+📝 Highly hyped with NODE.js  </br>
 🕵 Full Stack Developer  </br>
 
 ## 🌐Socials
