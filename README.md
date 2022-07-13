@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mprince2k18&label=Profile%20views&color=0e75b6&style=flat" alt="mprince2k18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohanurahman16&label=Profile%20views&color=0e75b6&style=flat" alt="shohanurahman16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mprince2k18" alt="mprince2k18" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohanurahman16" alt="shohanurahman16" /></a> </p>
 
 # 💫About Me :
 💻 Working with React, Laravel & Vue </br>
