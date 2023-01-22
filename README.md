@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srahman-me&label=Profile%20views&color=0e75b6&style=flat" alt="srahman-me" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srahman-me" alt="srahman-me" /></a> </p>
 
 # 💫About Me :
